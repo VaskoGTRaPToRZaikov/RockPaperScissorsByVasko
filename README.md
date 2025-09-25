@@ -1,5 +1,7 @@
   Rock Paper Scissors Game
 
+  <img width="226" height="223" alt="image" src="https://github.com/user-attachments/assets/44250933-5d6f-4797-9422-dd10a87987ee" />
+
 A colorful console-based Python implementation of the classic Rock Paper Scissors game with score tracking.
 
   Project Goals
