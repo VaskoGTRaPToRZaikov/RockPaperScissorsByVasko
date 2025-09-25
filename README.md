@@ -94,7 +94,7 @@ pip install colorama
 
   Online Demo Options:
 
-[Play Game](https://replit.com/@vaskozaikov/RockPaperScissorsByVasko)
+[<img alt="Play Game" src="https://github.com/user-attachments/assets/2117a2a4-c5f8-46f6-8359-d3b8a2798d38" />](https://replit.com/@vaskozaikov/RockPaperScissorsByVasko)
 
 ---
 
