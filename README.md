@@ -94,7 +94,7 @@ pip install colorama
 
   Online Demo Options:
 
-- [Replit](https://replit.com/) - Supports colorama installation
+[Play Game](https://replit.com/@vaskozaikov/RockPaperScissorsByVasko)
 
 ---
 
