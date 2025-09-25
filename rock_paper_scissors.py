@@ -8,15 +8,15 @@ player_score = 0
 computer_score = 0
 
 while True:
-    player_move = input("Choose [r]ock, [p]aper or [s]scissor: ")
+    player_move = input("Choose [r]ock, [p]aper or [s]scissor: ").lower()
 
-    if player_move == "r":
+    if player_move == ["r", "rock"]:
         player_move = rock
 
-    elif player_move == "p":
+    elif player_move == ["p", "paper"]:
         player_move = paper
 
-    elif player_move == "s":
+    elif player_move == ["s", "scissors"]:
         player_move = scissors
 
     else:
